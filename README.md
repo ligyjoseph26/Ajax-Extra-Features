@@ -6,7 +6,7 @@
 </h1>
 
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
+  <img src="https://telegra.ph/file/d84c5272c8c03306aa0ad.jpg" width="150">
 
 
 [![Stars](https://img.shields.io/github/stars/ligyjoseph26/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/ligyjoseph26/Ajax-Extra-Features/stargazers)
