@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Ajax-Extra-Features
+git clone https://github.com/ligyjoseph26/Ajax-Extra-Features
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
