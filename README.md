@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="https://telegra.ph/file/53ca56056c396ebd243d9.jpg">
+  <img src="https://telegra.ph/file/53ca56056c396ebd243d9.jpg" alt="https://telegra.ph/file/53ca56056c396ebd243d9.jpg">
 </p>
 <h1 align="center">
   <b>𝙰𝙹𝙰𝚇-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
