@@ -57,7 +57,7 @@
 You can deploy this bot anywhere.
 
 
-<summary>Deploy To Heroku</summary>
+<summary>Deploy To Heroku?</summary>
 <br>
 <p>
 <a href="https://heroku.com/deploy?template=https://github.com/ligyjoseph26/Ajax-Extra-Features">
